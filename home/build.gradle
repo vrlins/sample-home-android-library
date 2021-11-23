@@ -56,7 +56,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.vrlins'
-                artifactId = 'sample-android-library'
+                artifactId = 'sample-home-library'
                 version = '1.0'
             }
         }
